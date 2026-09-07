@@ -1,0 +1,11 @@
+{
+  "geode": "$GEODE_VERSION",
+  "gd": {
+    "android": "2.2.147"
+  },
+  "id": "kofte.geode",
+  "name": "Köfte Geode",
+  "version": "v1.0.0",
+  "developer": "Kofte",
+  "description": "Geometry Dash World için Köfte Geode"
+}
